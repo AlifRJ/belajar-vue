@@ -1,0 +1,1 @@
+<!-- History view: communicate with api to view all previous wpm/accuracy -->
