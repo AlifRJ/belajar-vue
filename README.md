@@ -1,6 +1,6 @@
 # belajar_vue
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a simple typing test with vue.js3 project,
 
 ## Recommended IDE Setup
 
